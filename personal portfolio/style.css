@@ -53,4 +53,12 @@ nav ul li a:hover {
 
 }
 
-span
+span{
+    color: orange;
+
+}
+.detel p{
+    color: #5555;
+    line-height: 22px;
+
+}
